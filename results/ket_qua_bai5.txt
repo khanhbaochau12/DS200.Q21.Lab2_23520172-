@@ -1,0 +1,34 @@
+=== THỐNG KÊ TỔNG QUAN CHO BÀI 5 ===
+Tỉ lệ Positive/Negative tổng thể:
+negative	266 0
+positive	1108 0
+positive	46 0
+negative	247 0
+negative	227 0
+positive	109 0
+negative	225 0
+positive	1121 0
+positive	701 0
+negative	403 0
+neutral	438 0
+neutral	12 0
+neutral	13 0
+neutral	23 0
+neutral	16 0
+neutral	18 0
+positive	667 0
+neutral	40 0
+positive	624 0
+negative	81 0
+negative	146 0
+negative	513 0
+neutral	94 0
+positive	4632 0
+Thống kê lượt đánh giá theo từng Category:
+CATEGORY_FACILITIES	442
+CATEGORY_FOOD&DRINKS	696
+CATEGORY_HOTEL	3606
+CATEGORY_LOCATION	957
+CATEGORY_ROOMS	2501
+CATEGORY_ROOM_AMENITIES	1267
+CATEGORY_SERVICE	2301

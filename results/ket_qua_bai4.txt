@@ -1,0 +1,89 @@
+KẾT QUẢ BÀI 4: TOP 5 TỪ ĐẶC TRƯNG
+------------------------------------------------
+PHÂN LOẠI: FACILITIES
+>> 5 TỪ TÍCH CỰC NHẤT:
+FACILITIES_positive_tiện	120
+FACILITIES_positive_nghi	87
+FACILITIES_positive_đủ	83
+FACILITIES_positive_đầy	82
+FACILITIES_positive_phòng	76
+>> 5 TỪ TIÊU CỰC NHẤT:
+FACILITIES_negative_không	124
+FACILITIES_negative_bơi	66
+FACILITIES_negative_thì	63
+FACILITIES_negative_hồ	58
+FACILITIES_negative_phòng	57
+------------------------------------------------
+PHÂN LOẠI: FOOD&DRINKS
+>> 5 TỪ TÍCH CỰC NHẤT:
+FOOD&DRINKS_positive_ăn	298
+FOOD&DRINKS_positive_sáng	248
+FOOD&DRINKS_positive_ngon	180
+FOOD&DRINKS_positive_cũng	138
+FOOD&DRINKS_positive_bữa	131
+>> 5 TỪ TIÊU CỰC NHẤT:
+FOOD&DRINKS_negative_ăn	215
+FOOD&DRINKS_negative_sáng	209
+FOOD&DRINKS_negative_không	180
+FOOD&DRINKS_negative_món	135
+FOOD&DRINKS_negative_thì	88
+------------------------------------------------
+PHÂN LOẠI: HOTEL
+>> 5 TỪ TÍCH CỰC NHẤT:
+HOTEL_positive_giá	915
+HOTEL_positive_vụ	889
+HOTEL_positive_cũng	764
+HOTEL_positive_lòng	732
+HOTEL_positive_hài	719
+>> 5 TỪ TIÊU CỰC NHẤT:
+HOTEL_negative_không	239
+HOTEL_negative_thì	110
+HOTEL_negative_phòng	108
+HOTEL_negative_thấy	81
+HOTEL_negative_resort	77
+------------------------------------------------
+PHÂN LOẠI: LOCATION
+>> 5 TỪ TÍCH CỰC NHẤT:
+LOCATION_positive_trí	587
+LOCATION_positive_vị	585
+LOCATION_positive_đi	518
+LOCATION_positive_tiện	504
+LOCATION_positive_thuận	391
+>> 5 TỪ TIÊU CỰC NHẤT:
+LOCATION_negative_xa	73
+LOCATION_negative_trí	59
+LOCATION_negative_vị	58
+LOCATION_negative_trung	58
+LOCATION_negative_tâm	56
+------------------------------------------------
+PHÂN LOẠI: ROOM
+>> 5 TỪ TÍCH CỰC NHẤT:
+>> 5 TỪ TIÊU CỰC NHẤT:
+------------------------------------------------
+PHÂN LOẠI: ROOMS
+>> 5 TỪ TÍCH CỰC NHẤT:
+ROOMS_positive_phòng	2227
+ROOMS_positive_sạch	1278
+ROOMS_positive_sẽ	1220
+ROOMS_positive_ốc	882
+ROOMS_positive_tiện	795
+>> 5 TỪ TIÊU CỰC NHẤT:
+ROOMS_negative_phòng	675
+ROOMS_negative_không	363
+ROOMS_negative_thì	175
+ROOMS_negative_hơi	143
+ROOMS_negative_cũng	140
+------------------------------------------------
+PHÂN LOẠI: SERVICE
+>> 5 TỪ TÍCH CỰC NHẤT:
+SERVICE_positive_nhân	1269
+SERVICE_positive_vụ	1266
+SERVICE_positive_viên	1253
+SERVICE_positive_phòng	831
+SERVICE_positive_phục	657
+>> 5 TỪ TIÊU CỰC NHẤT:
+SERVICE_negative_không	227
+SERVICE_negative_phòng	220
+SERVICE_negative_viên	125
+SERVICE_negative_nhân	125
+SERVICE_negative_thì	105
